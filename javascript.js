@@ -143,6 +143,8 @@ function togSigns(){
 
 
 //Zoom Image Code
+//Not my code found online put lost source
+//If someone know the source plz link for proper credit
 var scale = 1,
         panning = false,
         pointX = 0,
